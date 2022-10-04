@@ -5,5 +5,4 @@
 
 ![giphy](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
-# Get Ready for Battle 💣
 
