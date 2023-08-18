@@ -1,6 +1,6 @@
 ### Hi there I'm Gürkan👋
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin, Spring Boot and Flutter
 - 📫 How to reach me: [Twitter > @gurkanmutllu](https://twitter.com/gurkanmutllu) || [Instagram > @gurkanmutllu](https://www.instagram.com/gurkanmutllu/) || [Linkedin >@gurkanmutllu](https://www.linkedin.com/in/gurkanmutllu)
 - e-mail : gurkanmutllu@gmail.com
 
